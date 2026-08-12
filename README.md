@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-1D9E75.svg?style=flat-square)](LICENSE) [![PHP 7.4+](https://img.shields.io/badge/PHP-7.4%2B-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net) [![WooCommerce](https://img.shields.io/badge/WooCommerce-plugin-96588A?style=flat-square&logo=woocommerce&logoColor=white)](https://woocommerce.com) [![GroDev](https://img.shields.io/badge/by-GroDev-534AB7?style=flat-square)](https://grodev.pl/konfigurator-produktowy-3d)
 
+> 🇵🇱 **Praca AI-first (PL).** Ten plugin zbudowałem z Claude Code — strategia trójstopniowego łańcucha hooków WooCommerce i sanityzacja po mojej stronie (błąd tutaj korumpuje realne zamówienia), implementacja handlerów i PHPDoc po stronie AI. Podział pracy człowiek/AI, weryfikacja i znane pułapki: [CLAUDE.md](CLAUDE.md). Konfiguracja agenta review: [.claude/commands/hook-audit.md](.claude/commands/hook-audit.md).
 
 Attach **arbitrary configuration / personalization data** to a WooCommerce cart item, show it in cart & checkout, and persist it to the order (admin, emails, customer account) — all **server-side**.
 
