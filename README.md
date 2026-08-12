@@ -1,5 +1,8 @@
 # WooCommerce Custom Product Data
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-1D9E75.svg?style=flat-square)](LICENSE) [![PHP 7.4+](https://img.shields.io/badge/PHP-7.4%2B-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net) [![WooCommerce](https://img.shields.io/badge/WooCommerce-plugin-96588A?style=flat-square&logo=woocommerce&logoColor=white)](https://woocommerce.com) [![GroDev](https://img.shields.io/badge/by-GroDev-534AB7?style=flat-square)](https://grodev.pl/konfigurator-produktowy-3d)
+
+
 Attach **arbitrary configuration / personalization data** to a WooCommerce cart item, show it in cart & checkout, and persist it to the order (admin, emails, customer account) — all **server-side**.
 
 This is the exact bridge a **3D product configurator** (or any custom product form) needs to talk to WooCommerce: the configurator sends the chosen options, and they travel cleanly all the way to the order.
